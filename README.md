@@ -1,6 +1,8 @@
 Android Sliding Up Panel
 =========================
 
+[![Join the chat at https://gitter.im/beamly/AndroidSlidingUpPanel](https://badges.gitter.im/beamly/AndroidSlidingUpPanel.svg)](https://gitter.im/beamly/AndroidSlidingUpPanel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This library provides a simple way to add a draggable sliding up panel (popularized by Google Music, Google Maps and Rdio) to your Android application. Umano Team <3 Open Source.
 
 As seen in [Umano](http://umanoapp.com) [Android app](https://play.google.com/store/apps/details?id=com.sothree.umano):
